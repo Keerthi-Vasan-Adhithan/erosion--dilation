@@ -35,7 +35,7 @@ import matplotlib.pyplot as plt
 ```
 ##### Read and show the Original image
 ``` Python
-image = cv2.imread("ajay.png")
+image = cv2.imread("keerthi.png")
 kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (5, 5))
 image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
 plt.imshow(image_rgb)
