@@ -68,20 +68,20 @@ plt.axis("off")
 #### Display the Original Image
 
 
-![image](https://github.com/user-attachments/assets/da164988-3675-42ad-8e20-004a2a33e1e3)
+![image](https://github.com/user-attachments/assets/58f508b3-c98f-4224-afaf-6797bc977199)
 
 
 #### Display the Eroded Image
 
 
-![image](https://github.com/user-attachments/assets/4281ffb4-6183-40c0-bcc9-8254aa48df8d)
+![image](https://github.com/user-attachments/assets/62e96702-9441-47a8-89e6-e37db280382f)
 
 
 
 #### Display the Dilated Image
 
 
-![image](https://github.com/user-attachments/assets/13c3c158-db1b-4ee1-ab9c-dc560f8597a0)
+![image](https://github.com/user-attachments/assets/725387d5-9f6f-4d0b-b490-6e70332e3fc0)
 
 
 
